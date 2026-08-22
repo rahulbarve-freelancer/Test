@@ -8,6 +8,6 @@ public class SpringRestController {
 
 	@GetMapping("/greet")
 	public String doGreet() {
-		return "Welcome to the demo of Spring Boot Rest API with Jenkins";
+		return "Welcome to Spring REST with Git thank you";
 	}
 }
